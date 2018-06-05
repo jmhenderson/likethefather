@@ -3,3 +3,5 @@ hide_body: false
 is_partial: false
 fields:
 - type: textarea
+pages:
+- _posts/a-new-post-from-cms.md
