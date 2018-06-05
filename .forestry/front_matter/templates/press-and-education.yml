@@ -32,3 +32,5 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _posts/testing-cms.md
