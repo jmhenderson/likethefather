@@ -5,7 +5,7 @@ author: sal
 categories:
 - Jekyll
 - tutorial
-image: assets/images/7.jpg
+image: assets/images/07.jpg
 date: 2018-01-12 00:00:00 +0000
 ---
 I have made changes to a post using Forestry. I wonder if it has worked.
