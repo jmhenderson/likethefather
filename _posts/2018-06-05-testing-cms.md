@@ -4,7 +4,7 @@ date: 2018-06-05 00:00:00 +0000
 layout: post
 author: JMH3
 categories: []
-image: assets/images/5.jpg
+image: assets/images/05.jpg
 ---
 This is a new post.
 
