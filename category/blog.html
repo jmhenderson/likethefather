@@ -3,17 +3,3 @@ layout: category
 title: Blog
 category: blog
 ---
-
-<div class="masonrygrid row listrecent">
-        
-    {% for post in paginator.posts %}
-
-        {% unless post.featured == true %}
-
-            {% include postbox.html %}
-
-        {% endunless %}
-
-    {% endfor %}
-
-    </div>
