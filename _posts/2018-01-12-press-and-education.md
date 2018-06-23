@@ -5,6 +5,10 @@ author: sal
 categories:
 - Jekyll
 - tutorial
+tags:
+- tag1
+- tag4
+- tag2
 image: 'assets/images/071020.jpg'
 date: 2018-01-12 00:00:00 +0000
 ---
