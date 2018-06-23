@@ -5,7 +5,7 @@ author: john
 categories:
 - Jekyll
 - tutorial
-image: assets/images/051020.jpg
+image: 'assets/images/051020.jpg'
 featured: true
 date: 2018-01-12 00:00:00 +0000
 ---
