@@ -4,6 +4,9 @@ title: Markdown Example
 author: john
 categories:
 - blog
+tags:
+- tag2
+- tag4
 image: 'assets/images/101020.jpg'
 date: 2018-01-11 00:00:00 +0000
 ---
