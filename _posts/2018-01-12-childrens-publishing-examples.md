@@ -4,6 +4,9 @@ title: Strange Adventures of a Pebble
 author: john
 categories:
 - Jekyll
+tags:
+- tag1
+- tag4
 image: 'assets/images/021020.jpg'
 date: 2018-01-12 00:00:00 +0000
 ---
