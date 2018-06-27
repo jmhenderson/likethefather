@@ -6,6 +6,9 @@ License: Attribution-NonCommercial 4.0 International
          Free for personal use. For commercial use, please read: https://www.wowthemes.net/freebies-license/
 */
 
+.mainLogo {
+	max-width: 600px;}
+
 .mainheading {
 	padding:1rem 0rem;
 }
