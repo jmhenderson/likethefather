@@ -7,7 +7,12 @@ License: Attribution-NonCommercial 4.0 International
 */
 
 .mainLogo {
-	max-width: 400px;}
+	max-width: 400px;
+	display: block;
+   	margin-left: auto;
+	margin-right: auto;
+    	width: 50%;
+}
 
 .mainheading {
 	padding:1rem 0rem;
