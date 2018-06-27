@@ -3,6 +3,7 @@ name: Like The Father
 description: Empowering Dads To Father Like The Father
 meta_description: "Faith based community empowering and supporting dads to father like the father."
 logo: 'assets/images/logo.png'
+mainLogo: 'assets/images/likethefatherfull.png'
 favicon: 'assets/images/likethefatherflavicon.png'
 paginate: 15
 baseurl: ""
