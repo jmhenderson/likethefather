@@ -4,7 +4,7 @@ description: Empowering Dads To Father Like The Father
 meta_description: "Faith based community empowering and supporting dads to father like the father."
 logo: 'assets/images/logo.png'
 mainLogo: 'assets/images/likethefatherfull.png'
-favicon: 'assets/images/favicon-32x32.png'
+favicon: 'assets/images/favicon.ico'
 paginate: 15
 baseurl: ""
 url: "http://jmhenderson.github.io/likethefather"
