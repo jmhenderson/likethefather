@@ -5,7 +5,7 @@ meta_description: "Faith based community empowering and supporting dads to fathe
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/likethefatherflavicon.png'
 paginate: 15
-baseurl: "/likethefather"
+baseurl: ""
 url: "http://jmhenderson.github.io"
 google_analytics: 'UA-46278016-1'
 disqus: 'demowebsite'
